@@ -1,0 +1,5 @@
+OBJECT_BASE 4561308.btg
+OBJECT VYME.btg
+OBJECT_SHARED Models/Airport/windsock_lit.xml 98.622808 12.452458 -9999.0 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml 98.620148 12.427136 10.3 0.00
+OBJECT_SHARED Models/Airport/beacon.xml 98.623246 12.439721 -9999.0 0.00
